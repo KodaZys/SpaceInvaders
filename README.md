@@ -1,5 +1,5 @@
 # Space Invaders
-PyGame based Space Invaders game
+PyGame-based Space Invaders game
 
 ## Gameplay
 - Player can move left & right using the arrow keys

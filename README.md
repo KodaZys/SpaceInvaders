@@ -1,4 +1,4 @@
-# SpaceInvaders
+# Space Invaders
 PyGame based Space Invaders game
 
 ## Gameplay

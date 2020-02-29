@@ -6,3 +6,5 @@ PyGame-based Space Invaders game
 - Player can shoot bullets using the spacebar
 - Enemies encroach upon Player until hit by bullet
 - Players score 1 point per Space Invader hit
+
+![Gameplay Screenshot](/gameplay-screenshot.png?raw=true "UI Screenshot")

@@ -7,3 +7,5 @@ A Space Invaders game built with PyGame
 - Enemies encroach upon Player until hit by bullet
 - Players score 1 point per Space Invader hit
 - Background music and laser/explosion sounds on collision
+
+![Gameplay](/gameplay-screenshot.png?raw=true "UI Screenshot")
